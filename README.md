@@ -1,4 +1,4 @@
-# Hi 👋, I'm Umar Draz
+# I'm Umar Draz
 
 ### 🚀 Full Stack Web Developer | Crafting Scalable & Innovative Web Solutions
 
@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with exp
 - 🌟 **Founder & Lead Developer** at [Nexify Technologies](https://nexifytechnologies.com), delivering innovative solutions for clients worldwide.
 - 🔍 **Currently Exploring**: Advanced system architecture, DevOps practices, and cloud-native development.
 - 🎯 **Mission**: To create scalable, efficient, and user-friendly applications that solve real-world problems.
-- 📫 **Get in Touch**: [your.email@example.com](mailto:your.email@example.com)
-- 🌍 **Based in**: [Your Location]
+- 📫 **Get in Touch**: [bhaiumar759@gmail.com](mailto:bhaiumar759@gmail.com)
+- 🌍 **Based in**: [Faisalabad Pakistan]
 
 ---
 
@@ -65,22 +65,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with exp
 
 ---
 
-## 🌟 Featured Projects
-
-- **[Project Name 1](https://github.com/bhaiumar759/project1)**  
-  A full-stack web application built with Laravel and React, designed to [brief description].  
-  *Tech Stack*: Laravel, React, MySQL, Docker
-
-- **[Project Name 2](https://github.com/bhaiumar759/project2)**  
-  A real-time chat application using Node.js and WebSocket for seamless communication.  
-  *Tech Stack*: Node.js, Express, MongoDB, Vue.js
-
-- **[Project Name 3](https://github.com/bhaiumar759/project3)**  
-  An e-commerce platform with advanced features like payment integration and user authentication.  
-  *Tech Stack*: PHP, Angular, MySQL
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -105,16 +89,13 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with exp
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:bhaiumar759@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://linkedin.com/in/umar-draz">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/yourusername">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://nexifytechnologies.com">
+  <a href="https://devumar.nexifytechnologies.com/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
