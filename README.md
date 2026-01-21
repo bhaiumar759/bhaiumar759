@@ -30,7 +30,6 @@ I transform complex ideas into elegant, high-performance web applications. With 
 <td valign="top" width="33%">
 
 #### 💻 Core Languages
-End-to-end web applications using modern tech stacks with clean, maintainable code
 - JavaScript
 - TypeScript
 - PHP
@@ -42,7 +41,6 @@ End-to-end web applications using modern tech stacks with clean, maintainable co
 <td valign="top" width="33%">
 
 #### 🎨 Frontend Stack
-End-to-end web applications using modern tech stacks with clean, maintainable code
 - React.js
 - Vue.js
 - Angular
@@ -54,7 +52,6 @@ End-to-end web applications using modern tech stacks with clean, maintainable co
 <td valign="top" width="33%">
 
 #### ⚙️ Backend Stack
-End-to-end web applications using modern tech stacks with clean, maintainable code
 - Node.js
 - Express.js
 - Laravel
@@ -68,7 +65,6 @@ End-to-end web applications using modern tech stacks with clean, maintainable co
 <td valign="top" width="33%">
 
 #### 🗄️ Databases
-End-to-end web applications using modern tech stacks with clean, maintainable code
 - MongoDB
 - MySQL
 - PostgreSQL
@@ -79,7 +75,6 @@ End-to-end web applications using modern tech stacks with clean, maintainable co
 <td valign="top" width="33%">
 
 #### 🏗️ Architecture
-End-to-end web applications using modern tech stacks with clean, maintainable code
 - MVC Pattern
 - REST API
 - Microservices
@@ -90,7 +85,6 @@ End-to-end web applications using modern tech stacks with clean, maintainable co
 <td valign="top" width="33%">
 
 #### 🛠️ DevOps & Tools
-End-to-end web applications using modern tech stacks with clean, maintainable code
 - Git & GitHub
 - Docker
 - CI/CD
