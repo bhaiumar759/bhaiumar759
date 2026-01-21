@@ -25,7 +25,7 @@ I transform complex ideas into elegant, high-performance web applications. With 
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="100%" align="center">
 
 #### 💻 Core Languages
 JavaScript  
