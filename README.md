@@ -23,7 +23,7 @@
 
 I transform complex ideas into elegant, high-performance web applications. With **4+ years of experience**, I specialize in building scalable solutions that drive real business results and exceed client expectations.
 
-<table width="100%" align="center">
+<table style="width: 100%;">
 <tr>
 <td width="33%" align="center">
 
