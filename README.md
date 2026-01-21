@@ -35,18 +35,23 @@ I transform complex ideas into elegant, high-performance web applications. With 
 - PHP
 - SQL
 
-**👥 Lead & Mentor**  
-Guide development teams to deliver innovative solutions and foster collaboration
-
+#### 🎨 Frontend Stack
+- React
+- Vue.js
+- Angular
+- Tailwind CSS
 </td>
 <td width="50%">
 
-**🚀 Optimize Performance**  
-Create fast, efficient, and scalable systems that handle high traffic seamlessly
+#### ⚙️ Backend Stack
+- Node.js
+- Laravel
+- Express
+- WordPress
 
-**💡 Solve Complex Problems**  
-Turn challenging business requirements into elegant technical solutions
-
+#### 🗄️ Databases
+- MongoDB
+- MySQL
 </td>
 </tr>
 </table>
