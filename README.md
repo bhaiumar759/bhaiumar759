@@ -34,7 +34,7 @@ PHP
 SQL
 
 </td>
-<td width="33%" align="center">
+<td width="100%" align="center">
 
 #### 🎨 Frontend Stack
 React  
@@ -43,7 +43,7 @@ Angular
 Tailwind CSS
 
 </td>
-<td width="33%" align="center">
+<td width="100%" align="center">
 
 #### ⚙️ Backend Stack
 Node.js  
@@ -54,14 +54,14 @@ WordPress
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
+<td width="100%" align="center">
 
 #### 🗄️ Databases
 MongoDB  
 MySQL  
 
 </td>
-<td width="33%" align="center">
+<td width="100%" align="center">
 
 #### 🏗️ Architecture
 MVC  
@@ -69,7 +69,7 @@ REST API
 Microservices
 
 </td>
-<td width="33%" align="center">
+<td width="100%" align="center">
 
 #### 🛠️ DevOps
 Git  
