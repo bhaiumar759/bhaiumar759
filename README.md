@@ -92,9 +92,7 @@ I'm a passionate developer who transforms complex ideas into elegant, high-perfo
 
 ## 🏆 Expertise Areas
 
-<details>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
+### 🎨 Frontend Development
 
 - Building responsive, user-friendly interfaces with React.js, Vue.js, and Angular
 - State management with Redux and modern React Hooks
@@ -102,11 +100,7 @@ I'm a passionate developer who transforms complex ideas into elegant, high-perfo
 - Optimized performance and accessibility standards
 - Cross-browser compatibility and mobile-first approach
 
-</details>
-
-<details>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
+### ⚙️ Backend Development
 
 - RESTful API design and implementation with Node.js/Express
 - MVC architecture with Laravel for enterprise applications
@@ -115,11 +109,7 @@ I'm a passionate developer who transforms complex ideas into elegant, high-perfo
 - Secure authentication and authorization systems
 - Third-party API integrations (Payment Gateways, Google Services)
 
-</details>
-
-<details>
-<summary><b>🔧 Full Stack Solutions</b></summary>
-<br>
+### 🔧 Full Stack Solutions
 
 - Complete MERN stack application development
 - End-to-end project lifecycle management
@@ -127,8 +117,6 @@ I'm a passionate developer who transforms complex ideas into elegant, high-perfo
 - Code review and quality assurance
 - Performance optimization and scalability
 - Documentation and knowledge transfer
-
-</details>
 
 ---
 
