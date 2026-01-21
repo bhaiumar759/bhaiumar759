@@ -55,7 +55,7 @@ Full Stack Developer with **4+ years of experience** building high-performance w
 
 ## 🎯 Core Expertise
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
