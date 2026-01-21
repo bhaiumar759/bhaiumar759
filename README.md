@@ -15,26 +15,108 @@
 
 ## 🚀 About Me
 
-### 👨‍💻 Who I Am
+<div align="center">
 
-I'm a **passionate Full Stack Developer** who transforms complex ideas into elegant, high-performance web applications. With **4+ years of experience**, I specialize in building scalable solutions that drive real business results.
+### 👨‍💻 Passionate Full Stack Developer | Problem Solver | Team Leader
 
-**Core Languages:** JavaScript • TypeScript • PHP • SQL  
-**Frontend Stack:** React • Vue.js • Angular  
-**Backend Stack:** Node.js • Laravel • Express  
-**Databases:** MongoDB • MySQL  
-**Architecture:** MVC • REST API • Microservices
+</div>
 
-### 🎯 What I Do
+I transform complex ideas into elegant, high-performance web applications. With **4+ years of experience**, I specialize in building scalable solutions that drive real business results and exceed client expectations.
 
-- 🏗️ **Architect & Build** - End-to-end web applications using modern tech stacks
-- 👥 **Lead Teams** - Guide developers to deliver innovative solutions
-- 🚀 **Optimize Performance** - Create fast, efficient, and scalable systems
-- 💡 **Solve Problems** - Turn challenging requirements into working solutions
+<table>
+<tr>
+<td width="33%" align="center">
 
-### 🌱 Current Focus
+#### 💻 Core Languages
+JavaScript  
+TypeScript  
+PHP  
+SQL
 
-Leading development teams and crafting enterprise-grade applications with **MERN Stack**, **Laravel**, and **WordPress**.
+</td>
+<td width="33%" align="center">
+
+#### 🎨 Frontend Stack
+React  
+Vue.js  
+Angular  
+Tailwind CSS
+
+</td>
+<td width="33%" align="center">
+
+#### ⚙️ Backend Stack
+Node.js  
+Laravel  
+Express  
+WordPress
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+#### 🗄️ Databases
+MongoDB  
+MySQL  
+
+</td>
+<td width="33%" align="center">
+
+#### 🏗️ Architecture
+MVC  
+REST API  
+Microservices
+
+</td>
+<td width="33%" align="center">
+
+#### 🛠️ DevOps
+Git  
+Docker  
+CI/CD
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎯 What I Do Best
+
+<table>
+<tr>
+<td width="50%">
+
+**🏗️ Architect & Build**  
+End-to-end web applications using modern tech stacks with clean, maintainable code
+
+**👥 Lead & Mentor**  
+Guide development teams to deliver innovative solutions and foster collaboration
+
+</td>
+<td width="50%">
+
+**🚀 Optimize Performance**  
+Create fast, efficient, and scalable systems that handle high traffic seamlessly
+
+**💡 Solve Complex Problems**  
+Turn challenging business requirements into elegant technical solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🌱 Currently Building
+
+**Enterprise-grade applications** with MERN Stack • Laravel • WordPress  
+**Leading development teams** to create innovative, scalable solutions
+
+</div>
 
 ---
 
