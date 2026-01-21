@@ -1,14 +1,14 @@
-# Hi, I'm Umar Draz 👋
+# Hi, I'm Umar Draz
 
 **Full Stack Developer** | MERN Stack • Laravel • WordPress | 4+ Years Experience
 
 I build scalable, high-performance web applications that solve real business problems. Currently leading development teams to deliver innovative solutions across multiple industries.
 
-📍 Faisalabad, Pakistan | 📧 bhaiumar759@gmail.com
+Faisalabad, Pakistan | 📧 bhaiumar759@gmail.com
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 I specialize in full-stack web development, transforming complex requirements into reliable digital solutions. My focus is on writing clean, maintainable code that scales with your business needs.
 
@@ -19,7 +19,7 @@ I specialize in full-stack web development, transforming complex requirements in
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Frontend
 **Languages & Frameworks:** React.js • Angular • Vue.js • JavaScript (ES6+) • TypeScript • jQuery  
@@ -39,17 +39,17 @@ I specialize in full-stack web development, transforming complex requirements in
 
 ---
 
-## 🎯 Key Strengths
+## Key Strengths
 
-- **📊 Proven Track Record** - Delivered 50+ web applications for clients worldwide
-- **👥 Team Leadership** - Experience leading distributed development teams
-- **🔒 Security First** - Implementing secure authentication, authorization, and data protection
-- **⚡ Performance Optimization** - Building high-traffic applications that scale
-- **🔧 Problem Solver** - Tackling complex technical challenges with innovative solutions
+- **Proven Track Record** - Delivered 50+ web applications for clients worldwide
+- **Team Leadership** - Experience leading distributed development teams
+- **Security First** - Implementing secure authentication, authorization, and data protection
+- **Performance Optimization** - Building high-traffic applications that scale
+- **Problem Solver** - Tackling complex technical challenges with innovative solutions
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
 - Architected and deployed complex e-commerce platforms handling thousands of daily transactions
 - Built REST APIs serving high-traffic applications with optimized performance
@@ -59,7 +59,7 @@ I specialize in full-stack web development, transforming complex requirements in
 
 ---
 
-## 📈 My Approach
+## My Approach
 
 I believe in writing code that others can understand and maintain. My development philosophy centers on:
 
@@ -70,7 +70,7 @@ I believe in writing code that others can understand and maintain. My developmen
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always interested in challenging projects and collaboration opportunities. Whether you need a full-stack developer, technical consultant, or team lead, let's discuss how I can help bring your vision to life.
 
