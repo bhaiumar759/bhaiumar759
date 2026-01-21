@@ -27,31 +27,70 @@ I transform complex ideas into elegant, high-performance web applications. With 
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="33%">
 
-#### 💻 Core Languages 
+#### 💻 Core Languages
 - JavaScript
 - TypeScript
 - PHP
 - SQL
+- Python
+- C++
+
+</td>
+<td valign="top" width="33%">
 
 #### 🎨 Frontend Stack
-- React
+- React.js
 - Vue.js
 - Angular
 - Tailwind CSS
+- Bootstrap
+- jQuery
+
 </td>
-<td width="50%">
+<td valign="top" width="33%">
 
 #### ⚙️ Backend Stack
 - Node.js
+- Express.js
 - Laravel
-- Express
 - WordPress
+- REST APIs
+- GraphQL
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
 #### 🗄️ Databases
 - MongoDB
 - MySQL
+- PostgreSQL
+- Redis
+- Firebase
+
+</td>
+<td valign="top" width="33%">
+
+#### 🏗️ Architecture
+- MVC Pattern
+- REST API
+- Microservices
+- Event-Driven
+- Serverless
+
+</td>
+<td valign="top" width="33%">
+
+#### 🛠️ DevOps & Tools
+- Git & GitHub
+- Docker
+- CI/CD
+- AWS
+- Nginx
+
 </td>
 </tr>
 </table>
