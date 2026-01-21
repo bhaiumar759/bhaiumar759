@@ -23,9 +23,9 @@
 
 I transform complex ideas into elegant, high-performance web applications. With **4+ years of experience**, I specialize in building scalable solutions that drive real business results and exceed client expectations.
 
-<table>
+<table width="100%">
 <tr>
-<td width="100%" align="center">
+<td width="33%" align="center">
 
 #### 💻 Core Languages
 JavaScript  
@@ -34,7 +34,7 @@ PHP
 SQL
 
 </td>
-<td width="100%" align="center">
+<td width="33%" align="center">
 
 #### 🎨 Frontend Stack
 React  
@@ -43,7 +43,7 @@ Angular
 Tailwind CSS
 
 </td>
-<td width="100%" align="center">
+<td width="33%" align="center">
 
 #### ⚙️ Backend Stack
 Node.js  
@@ -54,14 +54,14 @@ WordPress
 </td>
 </tr>
 <tr>
-<td width="100%" align="center">
+<td width="33%" align="center">
 
 #### 🗄️ Databases
 MongoDB  
 MySQL  
 
 </td>
-<td width="100%" align="center">
+<td width="33%" align="center">
 
 #### 🏗️ Architecture
 MVC  
@@ -69,7 +69,7 @@ REST API
 Microservices
 
 </td>
-<td width="100%" align="center">
+<td width="33%" align="center">
 
 #### 🛠️ DevOps
 Git  
