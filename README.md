@@ -29,7 +29,7 @@ I transform complex ideas into elegant, high-performance web applications. With 
 <tr>
 <td width="50%">
 
-**🏗️ Architect & Build**  
+#### 💻 Core Languages 
 End-to-end web applications using modern tech stacks with clean, maintainable code
 
 **👥 Lead & Mentor**  
