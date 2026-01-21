@@ -15,13 +15,15 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="60%">
-
 ### 👨‍💻 Who I Am
 
 I'm a **passionate Full Stack Developer** who transforms complex ideas into elegant, high-performance web applications. With **4+ years of experience**, I specialize in building scalable solutions that drive real business results.
+
+**Core Languages:** JavaScript • TypeScript • PHP • SQL  
+**Frontend Stack:** React • Vue.js • Angular  
+**Backend Stack:** Node.js • Laravel • Express  
+**Databases:** MongoDB • MySQL  
+**Architecture:** MVC • REST API • Microservices
 
 ### 🎯 What I Do
 
@@ -33,50 +35,6 @@ I'm a **passionate Full Stack Developer** who transforms complex ideas into eleg
 ### 🌱 Current Focus
 
 Leading development teams and crafting enterprise-grade applications with **MERN Stack**, **Laravel**, and **WordPress**.
-
-</td>
-<td width="40%">
-
-```javascript
-const umarDraz = {
-    role: "Full Stack Developer",
-    experience: "4+ years",
-    location: "Faisalabad 🇵🇰",
-    code: [
-        "JavaScript",
-        "TypeScript", 
-        "PHP",
-        "SQL"
-    ],
-    technologies: {
-        frontend: [
-            "React",
-            "Vue.js",
-            "Angular"
-        ],
-        backend: [
-            "Node.js",
-            "Laravel",
-            "Express"
-        ],
-        databases: [
-            "MongoDB",
-            "MySQL"
-        ]
-    },
-    architecture: [
-        "MVC",
-        "REST API",
-        "Microservices"
-    ],
-    currentChallenge: 
-        "Building scalable solutions 🚀"
-};
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
