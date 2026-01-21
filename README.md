@@ -1,82 +1,177 @@
-# Hi, I'm Umar Draz
+<div align="center">
 
-**Full Stack Developer** | MERN Stack • Laravel • WordPress | 4+ Years Experience
+# 👋 Hi, I'm Umar Draz
 
-I build scalable, high-performance web applications that solve real business problems. Currently leading development teams to deliver innovative solutions across multiple industries.
+### 💻 Full Stack Developer | MERN Stack Specialist | Laravel Expert
 
-Faisalabad, Pakistan | 📧 bhaiumar759@gmail.com
+*Building scalable web applications that drive business growth*
 
----
-
-## What I Do
-
-I specialize in full-stack web development, transforming complex requirements into reliable digital solutions. My focus is on writing clean, maintainable code that scales with your business needs.
-
-**Core Expertise:**
-- **MERN Stack Development** - MongoDB, Express.js, React.js, Node.js
-- **Laravel Applications** - Enterprise-grade PHP solutions with clean architecture
-- **WordPress Solutions** - Custom themes, plugins, and WooCommerce integrations
+[![Email](https://img.shields.io/badge/Email-bhaiumar759%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bhaiumar759@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Faisalabad%2C%20Pakistan-green?style=for-the-badge&logo=google-maps)](https://maps.google.com)
 
 ---
 
-## Technical Skills
+</div>
 
-### Frontend
-**Languages & Frameworks:** React.js • Angular • Vue.js • JavaScript (ES6+) • TypeScript • jQuery  
-**Styling:** HTML5 • CSS3 • Tailwind CSS • Bootstrap • Responsive Design  
-**Tools:** Redux • React Hooks • AJAX • REST API Integration
+## 🚀 About Me
 
-### Backend
-**Languages & Frameworks:** Node.js • Express.js • Laravel • PHP  
-**Databases:** MongoDB • MySQL • Database Design & Optimization  
-**APIs:** RESTful API Design • Third-Party Integrations • Authentication & Authorization  
-**CMS:** WordPress • Custom Plugin Development • WooCommerce
+```javascript
+const umarDraz = {
+    role: "Full Stack Developer",
+    experience: "4+ years",
+    location: "Faisalabad, Pakistan",
+    currentFocus: "Leading development teams & building scalable solutions",
+    languages: ["JavaScript", "PHP", "TypeScript", "SQL"],
+    architecture: ["MVC", "REST API", "Microservices"],
+    hobbies: ["Open Source", "Problem Solving", "Continuous Learning"]
+};
+```
 
-### DevOps & Tools
-**Version Control:** Git • GitHub  
-**Deployment:** Docker • Cloud Platforms  
-**Testing:** Unit Testing • Integration Testing • Quality Assurance
-
----
-
-## Key Strengths
-
-- **Proven Track Record** - Delivered 50+ web applications for clients worldwide
-- **Team Leadership** - Experience leading distributed development teams
-- **Security First** - Implementing secure authentication, authorization, and data protection
-- **Performance Optimization** - Building high-traffic applications that scale
-- **Problem Solver** - Tackling complex technical challenges with innovative solutions
+I'm a passionate developer who transforms complex ideas into elegant, high-performance web applications. With over 4 years of experience, I specialize in the MERN stack, Laravel, and WordPress, delivering solutions that exceed client expectations.
 
 ---
 
-## Highlights
+## 🛠️ Tech Stack
 
-- Architected and deployed complex e-commerce platforms handling thousands of daily transactions
-- Built REST APIs serving high-traffic applications with optimized performance
-- Led full-stack projects from concept to production deployment
-- Contributed to open-source projects improving developer workflows
-- Integrated payment gateways (PayPal, Stripe) and external APIs (Google Maps, etc.)
+<div align="center">
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-## My Approach
+## 💼 What I Bring to the Table
 
-I believe in writing code that others can understand and maintain. My development philosophy centers on:
+<table>
+<tr>
+<td width="50%">
 
-- **Clean Code** - Prioritizing readability and maintainability
-- **Agile Methodology** - Iterative development with continuous improvement
-- **Client Communication** - Clear, transparent updates throughout the project lifecycle
-- **Continuous Learning** - Staying current with emerging technologies and best practices
+### 🎯 Technical Excellence
+- ✅ **50+ Projects Delivered** across global markets
+- ✅ **High-Performance APIs** serving thousands of requests daily
+- ✅ **E-commerce Solutions** with seamless payment integrations
+- ✅ **Clean Architecture** with scalable, maintainable code
+
+</td>
+<td width="50%">
+
+### 🤝 Professional Approach
+- ✅ **Team Leadership** with proven collaboration skills
+- ✅ **Client-Focused** communication and transparency
+- ✅ **Agile Methodology** for iterative development
+- ✅ **Security First** implementation practices
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Let's Connect
+## 🏆 Expertise Areas
 
-I'm always interested in challenging projects and collaboration opportunities. Whether you need a full-stack developer, technical consultant, or team lead, let's discuss how I can help bring your vision to life.
+<details>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
 
-📧 **Email:** bhaiumar759@gmail.com  
-💼 **Open to:** Freelance Projects • Contract Work • Technical Consulting
+- Building responsive, user-friendly interfaces with React.js, Vue.js, and Angular
+- State management with Redux and modern React Hooks
+- Pixel-perfect designs using Tailwind CSS and Bootstrap
+- Optimized performance and accessibility standards
+- Cross-browser compatibility and mobile-first approach
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+- RESTful API design and implementation with Node.js/Express
+- MVC architecture with Laravel for enterprise applications
+- Custom WordPress themes and plugins with ACF
+- Database design and optimization (MySQL, MongoDB)
+- Secure authentication and authorization systems
+- Third-party API integrations (Payment Gateways, Google Services)
+
+</details>
+
+<details>
+<summary><b>🔧 Full Stack Solutions</b></summary>
+<br>
+
+- Complete MERN stack application development
+- End-to-end project lifecycle management
+- DevOps and deployment strategies
+- Code review and quality assurance
+- Performance optimization and scalability
+- Documentation and knowledge transfer
+
+</details>
 
 ---
 
-*"Code is like poetry; when it flows, it glows."*
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🌟 Core Values
+
+<div align="center">
+
+| 💡 Innovation | 🎯 Quality | 🚀 Performance | 🤝 Collaboration |
+|:---:|:---:|:---:|:---:|
+| Embracing new technologies | Clean, maintainable code | Optimized solutions | Effective teamwork |
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**I'm open to exciting opportunities in:**
+
+`Freelance Projects` • `Contract Work` • `Technical Consulting` • `Team Collaboration`
+
+### Ready to build something amazing together?
+
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-red?style=for-the-badge)](mailto:bhaiumar759@gmail.com)
+
+---
+
+<i>"Code is like poetry; when it flows, it glows."</i>
+
+⭐️ From [Umar Draz](https://github.com/yourusername)
+
+</div>
