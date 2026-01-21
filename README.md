@@ -25,7 +25,7 @@ I transform complex ideas into elegant, high-performance web applications. With 
 
 ### 💻 Technical Stack
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="33%">
 
@@ -37,7 +37,9 @@ I transform complex ideas into elegant, high-performance web applications. With 
 - Python
 - C++
 
+<br><em>Proficient in modern programming languages</em>
 </td>
+
 <td valign="top" width="33%">
 
 #### 🎨 Frontend Stack
@@ -48,7 +50,9 @@ I transform complex ideas into elegant, high-performance web applications. With 
 - Bootstrap
 - jQuery
 
+<br><em>Building responsive and interactive interfaces</em>
 </td>
+
 <td valign="top" width="33%">
 
 #### ⚙️ Backend Stack
@@ -59,8 +63,10 @@ I transform complex ideas into elegant, high-performance web applications. With 
 - REST APIs
 - GraphQL
 
+<br><em>Developing scalable backend systems</em>
 </td>
 </tr>
+
 <tr>
 <td valign="top" width="33%">
 
@@ -71,7 +77,9 @@ I transform complex ideas into elegant, high-performance web applications. With 
 - Redis
 - Firebase
 
+<br><em>Efficient database design and management</em>
 </td>
+
 <td valign="top" width="33%">
 
 #### 🏗️ Architecture
@@ -81,7 +89,9 @@ I transform complex ideas into elegant, high-performance web applications. With 
 - Event-Driven
 - Serverless
 
+<br><em>Designing robust system architectures</em>
 </td>
+
 <td valign="top" width="33%">
 
 #### 🛠️ DevOps & Tools
@@ -91,6 +101,7 @@ I transform complex ideas into elegant, high-performance web applications. With 
 - AWS
 - Nginx
 
+<br><em>Automating deployments and maintaining infrastructure</em>
 </td>
 </tr>
 </table>
