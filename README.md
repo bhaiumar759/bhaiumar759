@@ -25,27 +25,62 @@ I transform complex ideas into elegant, high-performance web applications. With 
 
 ### 💻 Technical Stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="33%">
 
 #### 💻 Core Languages
-JavaScript • TypeScript • PHP • SQL
+- JavaScript
+- TypeScript
+- PHP
+- SQL
+
+</td>
+<td valign="top" width="33%">
 
 #### 🎨 Frontend Stack
-React • Vue.js • Angular • Tailwind CSS • Bootstrap
+- React
+- Vue.js
+- Angular
+- Tailwind CSS
+
+</td>
+<td valign="top" width="33%">
 
 #### ⚙️ Backend Stack
-Node.js • Express • Laravel • WordPress
+- Node.js
+- Laravel
+- Express
+- WordPress
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
 #### 🗄️ Databases
-MongoDB • MySQL
+- MongoDB
+- MySQL
 
-#### 🏗️ Architecture & Patterns
-MVC • REST API • Microservices
+</td>
+<td valign="top" width="33%">
 
-#### 🛠️ DevOps & Tools
-Git • Docker • CI/CD
+#### 🏗️ Architecture
+- MVC
+- REST API
+- Microservices
 
-</div>
+</td>
+<td valign="top" width="33%">
+
+#### 🛠️ DevOps
+- Git
+- Docker
+- CI/CD
+
+</td>
+</tr>
+</table>
 
 ---
 
