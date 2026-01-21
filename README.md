@@ -1,103 +1,113 @@
-<!-- 
-  Umar Draz – Full Stack Web Developer
-  Feel free to copy-paste and adjust links/images as needed
--->
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Umar+Draz;Full+Stack+Web+Developer+%7C+4%2B+years;Building+scalable+web+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4200&pause=900&color=00D4FF&center=true&vCenter=true&width=480&lines=Hey+there!+I'm+Umar+Draz;Full+Stack+Developer+%7C+4%2B+Years;MERN+%7C+Laravel+%7C+WordPress;Building+scalable+web+solutions" alt="Typing animation" />
 </div>
 
-<br/>
+<br>
 
 <div align="center">
   <a href="mailto:bhaiumar759@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
-  <!-- Add your LinkedIn, Twitter/X, Portfolio, WhatsApp etc. here -->
-  <!-- Example: <a href="https://linkedin.com/in/umar-draz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+  &nbsp;&nbsp;
+  <!-- Add these if you have profiles -->
+  <!-- <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+  <!-- <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> -->
+  <!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> -->
 </div>
 
-<br/>
+<br>
 
-I'm a **results-oriented Full Stack Developer** from Faisalabad, Pakistan with **4+ years** of experience crafting performant, scalable, and user-focused web applications for startups, agencies, and international clients.
+<p align="center">
+  <strong>Results-driven Full Stack Developer</strong> from Pakistan with <strong>4+ years</strong> turning business ideas into clean, scalable, high-performance web applications.<br>
+  Specializing in <strong>MERN Stack</strong> • <strong>Laravel</strong> • <strong>WordPress/WooCommerce</strong><br>
+  <em>"Code is like poetry; when it flows, it glows." ✨</em>
+</p>
 
-I specialize in **MERN Stack**, **Laravel**, and **WordPress** — turning business ideas into clean, maintainable, production-ready solutions.
+<hr>
 
-*"Code is like poetry; when it flows, it glows."* ✨
-
-<br/>
-
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,mysql,laravel,php,wordpress,bootstrap,tailwind,git,docker,figma,vscode&perline=8" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,mysql,laravel,php,wordpress,git,docker,figma,vscode,postman&perline=9" alt="Tech stack icons"/>
 </div>
 
-<br/>
+<br>
 
-- **Frontend**  
-  React • Next.js • TypeScript • Tailwind CSS • Bootstrap • Redux • Vue.js • Angular • HTML5/CSS3 • JavaScript (ES6+) • jQuery
+**Frontend**  
+React • Next.js • TypeScript • Tailwind CSS • Bootstrap • Redux • Vue.js • Angular • jQuery
 
-- **Backend**  
-  Node.js • Express • Laravel • PHP • RESTful APIs • Authentication (JWT, Sanctum) • Third-party integrations (Stripe, PayPal, Google APIs)
+**Backend & APIs**  
+Node.js • Express • Laravel • PHP • REST/GraphQL APIs • JWT • Sanctum • Stripe/PayPal • Google APIs
 
-- **Databases**  
-  MongoDB • MySQL • PostgreSQL (basics)
+**Databases**  
+MongoDB • MySQL
 
-- **WordPress Ecosystem**  
-  Custom themes & plugins • WooCommerce • ACF • REST API • Headless WP
+**WordPress**  
+Custom themes/plugins • WooCommerce • ACF • Headless/REST API
 
-- **Other**  
-  Git • Docker basics • Agile workflows • Performance & SEO optimization
+**Tools & Practices**  
+Git • Docker • CI/CD basics • Agile • Performance & SEO • Clean Code
 
-<br/>
+<hr>
 
-## 🔥 GitHub Stats & Activity
+## 📊 GitHub Activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=bhaiumar759&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaiumar759&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaiumar759&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css&exclude_repo=personal-stuff" alt="Top Languages"/>
 </div>
 
-<br/>
+<br>
 
-## 💼 Professional Highlights
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bhaiumar759.bhaiumar759&right_color=00D4FF&left_color=2C3E50" alt="Profile visitors"/>
+</div>
 
-- Delivered **50+ web projects** — from MVPs to complex e-commerce platforms  
-- Led full-cycle development (planning → architecture → deployment → maintenance)  
-- Built high-traffic **REST APIs** serving thousands of requests daily  
-- Strong focus on **clean code**, **performance**, **security**, and **scalability**  
-- Comfortable leading small teams and mentoring juniors  
-- End-to-end ownership: requirements → production → post-launch support
+<hr>
 
-<br/>
+## 🔥 Key Highlights
 
-## 🌟 What I Enjoy Building
+- Delivered **50+ production web projects** for clients worldwide  
+- Built complex **e-commerce platforms** (MERN, Laravel, WooCommerce)  
+- Designed high-traffic **REST APIs** handling thousands of requests/day  
+- Led full project cycles: planning → architecture → deployment → maintenance  
+- Strong focus on **performance**, **security**, **scalability**, and **maintainable code**  
+- Experience mentoring juniors & collaborating in distributed teams
 
-- Modern SPA & SSR applications (React / Next.js)  
-- Robust admin panels & dashboards (Laravel + React/Vue)  
-- Custom e-commerce solutions (WooCommerce / Laravel / MERN)  
-- API-first & headless architectures  
-- Maintainable, well-tested codebases that scale
+<hr>
 
-<br/>
+## 💡 What I Love Building
 
-## 📬 Let's Connect & Collaborate
+- Modern React/Next.js apps (SPA + SSR)  
+- Robust Laravel + React/Vue admin dashboards  
+- Custom e-commerce & headless WordPress solutions  
+- Secure, well-documented API-first backends  
+- Clean, testable, future-proof codebases
 
-Open to **remote opportunities**, interesting projects, and technical discussions.
+<hr>
+
+## 📬 Let's Connect
+
+I'm open to **remote full-stack roles**, freelance projects, open-source collabs, or just interesting tech discussions.
 
 📧 **bhaiumar759@gmail.com**  
-💬 Feel free to reach out — I usually reply within 24 hours!
+💬 Usually reply within 24 hours
 
-Thanks for visiting! ⭐ Star my repos if you find them useful.
+Thanks for stopping by!  
+Feel free to ⭐ my repos if you find something useful 🚀
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" alt="visitors"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bhaiumar759&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 </div>
