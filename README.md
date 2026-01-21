@@ -23,62 +23,20 @@
 
 I transform complex ideas into elegant, high-performance web applications. With **4+ years of experience**, I specialize in building scalable solutions that drive real business results and exceed client expectations.
 
-<table style="width: 100%;">
-<tr>
-<td width="33%" align="center">
+### 💻 Technical Stack
 
-#### 💻 Core Languages
-JavaScript  
-TypeScript  
-PHP  
-SQL
+| Core Languages | Frontend Stack | Backend Stack |
+|:---:|:---:|:---:|
+| JavaScript | React | Node.js |
+| TypeScript | Vue.js | Laravel |
+| PHP | Angular | Express |
+| SQL | Tailwind CSS | WordPress |
 
-</td>
-<td width="33%" align="center">
-
-#### 🎨 Frontend Stack
-React  
-Vue.js  
-Angular  
-Tailwind CSS
-
-</td>
-<td width="33%" align="center">
-
-#### ⚙️ Backend Stack
-Node.js  
-Laravel  
-Express  
-WordPress
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-#### 🗄️ Databases
-MongoDB  
-MySQL  
-
-</td>
-<td width="33%" align="center">
-
-#### 🏗️ Architecture
-MVC  
-REST API  
-Microservices
-
-</td>
-<td width="33%" align="center">
-
-#### 🛠️ DevOps
-Git  
-Docker  
-CI/CD
-
-</td>
-</tr>
-</table>
+| Databases | Architecture | DevOps & Tools |
+|:---:|:---:|:---:|
+| MongoDB | MVC | Git |
+| MySQL | REST API | Docker |
+| - | Microservices | CI/CD |
 
 ---
 
