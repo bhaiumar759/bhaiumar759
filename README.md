@@ -15,19 +15,68 @@
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td width="60%">
+
+### 👨‍💻 Who I Am
+
+I'm a **passionate Full Stack Developer** who transforms complex ideas into elegant, high-performance web applications. With **4+ years of experience**, I specialize in building scalable solutions that drive real business results.
+
+### 🎯 What I Do
+
+- 🏗️ **Architect & Build** - End-to-end web applications using modern tech stacks
+- 👥 **Lead Teams** - Guide developers to deliver innovative solutions
+- 🚀 **Optimize Performance** - Create fast, efficient, and scalable systems
+- 💡 **Solve Problems** - Turn challenging requirements into working solutions
+
+### 🌱 Current Focus
+
+Leading development teams and crafting enterprise-grade applications with **MERN Stack**, **Laravel**, and **WordPress**.
+
+</td>
+<td width="40%">
+
 ```javascript
 const umarDraz = {
     role: "Full Stack Developer",
     experience: "4+ years",
-    location: "Faisalabad, Pakistan",
-    currentFocus: "Leading development teams & building scalable solutions",
-    languages: ["JavaScript", "PHP", "TypeScript", "SQL"],
-    architecture: ["MVC", "REST API", "Microservices"],
-    hobbies: ["Open Source", "Problem Solving", "Continuous Learning"]
+    location: "Faisalabad 🇵🇰",
+    code: [
+        "JavaScript",
+        "TypeScript", 
+        "PHP",
+        "SQL"
+    ],
+    technologies: {
+        frontend: [
+            "React",
+            "Vue.js",
+            "Angular"
+        ],
+        backend: [
+            "Node.js",
+            "Laravel",
+            "Express"
+        ],
+        databases: [
+            "MongoDB",
+            "MySQL"
+        ]
+    },
+    architecture: [
+        "MVC",
+        "REST API",
+        "Microservices"
+    ],
+    currentChallenge: 
+        "Building scalable solutions 🚀"
 };
 ```
 
-I'm a passionate developer who transforms complex ideas into elegant, high-performance web applications. With over 4 years of experience, I specialize in the MERN stack, Laravel, and WordPress, delivering solutions that exceed client expectations.
+</td>
+</tr>
+</table>
 
 ---
 
