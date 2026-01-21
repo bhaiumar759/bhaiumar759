@@ -30,7 +30,10 @@ I transform complex ideas into elegant, high-performance web applications. With 
 <td width="50%">
 
 #### 💻 Core Languages 
-End-to-end web applications using modern tech stacks with clean, maintainable code
+- JavaScript
+- TypeScript
+- PHP
+- SQL
 
 **👥 Lead & Mentor**  
 Guide development teams to deliver innovative solutions and foster collaboration
