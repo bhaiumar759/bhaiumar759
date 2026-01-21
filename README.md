@@ -27,56 +27,22 @@ I transform complex ideas into elegant, high-performance web applications. With 
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="50%">
 
-#### 💻 Core Languages
-- JavaScript
-- TypeScript
-- PHP
-- SQL
+**🏗️ Architect & Build**  
+End-to-end web applications using modern tech stacks with clean, maintainable code
 
-</td>
-<td valign="top" width="33%">
-
-#### 🎨 Frontend Stack
-- React
-- Vue.js
-- Angular
-- Tailwind CSS
+**👥 Lead & Mentor**  
+Guide development teams to deliver innovative solutions and foster collaboration
 
 </td>
-<td valign="top" width="33%">
+<td width="50%">
 
-#### ⚙️ Backend Stack
-- Node.js
-- Laravel
-- Express
-- WordPress
+**🚀 Optimize Performance**  
+Create fast, efficient, and scalable systems that handle high traffic seamlessly
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-#### 🗄️ Databases
-- MongoDB
-- MySQL
-
-</td>
-<td valign="top" width="33%">
-
-#### 🏗️ Architecture
-- MVC
-- REST API
-- Microservices
-
-</td>
-<td valign="top" width="33%">
-
-#### 🛠️ DevOps
-- Git
-- Docker
-- CI/CD
+**💡 Solve Complex Problems**  
+Turn challenging business requirements into elegant technical solutions
 
 </td>
 </tr>
