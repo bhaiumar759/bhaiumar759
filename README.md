@@ -1,104 +1,103 @@
-# I'm Umar Draz
+<!-- 
+  Umar Draz – Full Stack Web Developer
+  Feel free to copy-paste and adjust links/images as needed
+-->
 
-### Full Stack Web Developer | 4+ Years Experience
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Umar+Draz;Full+Stack+Web+Developer+%7C+4%2B+years;Building+scalable+web+solutions" alt="Typing SVG" />
+</div>
 
-Welcome to my GitHub profile! I am a results-driven **Full Stack Web Developer** with over 4 years of experience building scalable, high-performance web applications for startups, agencies, and global clients. I specialize in **MERN Stack, Laravel, and WordPress development**, transforming complex ideas into reliable digital solutions that drive business growth. I am passionate about writing clean, maintainable code and delivering software that exceeds client expectations.
+<br/>
 
----
+<div align="center">
+  <a href="mailto:bhaiumar759@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <!-- Add your LinkedIn, Twitter/X, Portfolio, WhatsApp etc. here -->
+  <!-- Example: <a href="https://linkedin.com/in/umar-draz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+</div>
 
-## About Me
+<br/>
 
-I have over 4 years of hands-on experience developing modern web applications. I am skilled in both frontend and backend technologies, allowing me to handle complete project cycles from planning to deployment. My goal is to create applications that are efficient, secure, and tailored to solve real-world business problems. I also focus on best coding practices, scalability, and delivering high-quality solutions that exceed client expectations.
+I'm a **results-oriented Full Stack Developer** from Faisalabad, Pakistan with **4+ years** of experience crafting performant, scalable, and user-focused web applications for startups, agencies, and international clients.
 
-- **Experience:** 4+ years in developing modern web applications with a focus on performance, scalability, and user experience.  
-- **Lead Developer:**I lead a team of developers to deliver innovative solutions across multiple industries.  
-- **Professional Approach:** Clear communication, timely delivery, and maintainable code are my priorities.  
-- **Location:** Faisalabad, Pakistan  
-- **Contact:** [bhaiumar759@gmail.com](mailto:bhaiumar759@gmail.com)  
+I specialize in **MERN Stack**, **Laravel**, and **WordPress** — turning business ideas into clean, maintainable, production-ready solutions.
 
----
+*"Code is like poetry; when it flows, it glows."* ✨
 
-## Frontend Development Expertise
+<br/>
 
-I specialize in building **dynamic, responsive, and user-friendly interfaces**. My frontend skills focus on creating modern web experiences that are fast, interactive, and accessible on all devices. I prioritize clean, reusable code and frameworks that scale with project requirements.
+## 🛠️ Tech Stack & Tools
 
-- **React.js Development:** Building reusable components, state management, and optimized performance.  
-- **JavaScript (ES6+):** Writing clean, efficient, and modular code for dynamic functionality.  
-- **jQuery & AJAX:** Handling asynchronous operations and smooth UI interactions.  
-- **HTML5 & CSS3:** Creating mobile-first, accessible, and pixel-perfect designs.  
-- **Angular & Vue.js:** Building scalable SPA (Single Page Applications) for complex frontend workflows.  
-- **Bootstrap & Tailwind CSS:** Rapid, responsive, and consistent UI development.  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,mysql,laravel,php,wordpress,bootstrap,tailwind,git,docker,figma,vscode&perline=8" alt="skills"/>
+</div>
 
----
+<br/>
 
-## Backend Development Expertise
+- **Frontend**  
+  React • Next.js • TypeScript • Tailwind CSS • Bootstrap • Redux • Vue.js • Angular • HTML5/CSS3 • JavaScript (ES6+) • jQuery
 
-I design and implement **robust, scalable, and secure backend systems** that meet modern business needs. My backend solutions are optimized for performance, security, and maintainability, ensuring reliable data management and API functionality.
+- **Backend**  
+  Node.js • Express • Laravel • PHP • RESTful APIs • Authentication (JWT, Sanctum) • Third-party integrations (Stripe, PayPal, Google APIs)
 
-- **Node.js & Express.js:** Developing RESTful APIs and server-side logic for high-traffic applications.  
-- **Laravel Framework:** MVC-based, secure, and maintainable backend solutions for enterprise applications.  
-- **WordPress Development:** Custom themes, plugins, and integrations using REST APIs and ACF.  
-- **Database Management:** Proficient in **MySQL and MongoDB**, ensuring data integrity, security, and optimization.  
-- **Authentication & Authorization:** Implementing secure user authentication, role-based access, and token-based security.  
-- **Third-Party API Integrations:** Payment gateways, Google services, and other external APIs.  
+- **Databases**  
+  MongoDB • MySQL • PostgreSQL (basics)
 
----
+- **WordPress Ecosystem**  
+  Custom themes & plugins • WooCommerce • ACF • REST API • Headless WP
 
-## Frameworks, CMS & Technologies
+- **Other**  
+  Git • Docker basics • Agile workflows • Performance & SEO optimization
 
-I work with a variety of modern frameworks and CMS platforms to deliver **full-featured, maintainable web applications**. My expertise ensures clean architecture, code reusability, and optimized performance across projects.
+<br/>
 
-- **MERN Stack Specialist:** MongoDB, Express.js, React.js, Node.js  
-- **WordPress Expert:** Custom themes, plugins, WooCommerce integration, and REST API development  
-- **Laravel Framework:** Clean architecture, reusable modules, and maintainable codebases  
-- **DevOps & Deployment:** Docker, Git, and cloud deployment strategies for modern web applications  
+## 🔥 GitHub Stats & Activity
 
----
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+</div>
 
-## API Development & Integrations
+<br/>
 
-I develop and integrate **robust APIs** to connect applications with third-party services and internal systems. My approach ensures APIs are scalable, secure, and maintainable, providing seamless communication between systems.
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
 
-- **REST API Development:** Designing scalable APIs for internal and external use  
-- **Payment Gateway Integration:** PayPal, Stripe, and custom solutions  
-- **Third-Party Integrations:** Google Maps API, external services, and automation tools  
-- **Data Processing:** Handling complex data workflows with optimized algorithms  
+<br/>
 
----
+## 💼 Professional Highlights
 
-## Why Clients & Teams Choose Me
+- Delivered **50+ web projects** — from MVPs to complex e-commerce platforms  
+- Led full-cycle development (planning → architecture → deployment → maintenance)  
+- Built high-traffic **REST APIs** serving thousands of requests daily  
+- Strong focus on **clean code**, **performance**, **security**, and **scalability**  
+- Comfortable leading small teams and mentoring juniors  
+- End-to-end ownership: requirements → production → post-launch support
 
-Clients and teams trust me for **high-quality, reliable, and maintainable software solutions**. My professional approach combines technical skills, effective communication, and a commitment to meeting business goals.
+<br/>
 
-- **Client-Focused Communication:** Clear, transparent, and proactive updates  
-- **End-to-End Development:** From requirements gathering and planning to deployment and support  
-- **Performance & Security First:** Applications are optimized, scalable, and secure  
-- **Quality Assurance:** Rigorous testing and attention to detail for reliable outcomes  
-- **Team Collaboration:** Experienced in working with distributed teams and mentoring junior developers  
+## 🌟 What I Enjoy Building
 
----
+- Modern SPA & SSR applications (React / Next.js)  
+- Robust admin panels & dashboards (Laravel + React/Vue)  
+- Custom e-commerce solutions (WooCommerce / Laravel / MERN)  
+- API-first & headless architectures  
+- Maintainable, well-tested codebases that scale
 
-## Professional Achievements
+<br/>
 
-I have successfully delivered numerous projects, gaining experience across multiple domains and technologies. My work focuses on **quality, innovation, and client satisfaction**.
+## 📬 Let's Connect & Collaborate
 
-- Successfully delivered **50+ web applications** for clients worldwide  
-- Implemented **complex e-commerce platforms** using WordPress, WooCommerce, Laravel, and MERN Stack  
-- Led multiple **full-stack projects** from architecture design to deployment and maintenance  
-- Contributed to **open-source projects** and developed custom solutions that improved client workflows  
-- Built high-performance **REST APIs** serving thousands of requests daily  
+Open to **remote opportunities**, interesting projects, and technical discussions.
 
----
+📧 **bhaiumar759@gmail.com**  
+💬 Feel free to reach out — I usually reply within 24 hours!
 
-## My Work Philosophy
+Thanks for visiting! ⭐ Star my repos if you find them useful.
 
-I approach every project with a focus on **efficiency, scalability, and maintainability**. My goal is to deliver software that meets the client’s vision and can evolve with future requirements.
-
-- **Clean Code:** Prioritize maintainability and scalability  
-- **Agile Practices:** Work in iterative cycles, ensuring continuous improvement  
-- **Problem Solving:** Tackle challenges with analytical and innovative approaches  
-- **Continuous Learning:** Always exploring new technologies and best practices to stay ahead  
-
----
-
-*"Code is like poetry; when it flows, it glows."*
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" alt="visitors"/>
+</div>
